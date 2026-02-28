@@ -1,4 +1,3 @@
-## 📫 Connect With Me
 <h1 align="center">Hi 👋, I'm Madhura Mane</h1>
 <h3 align="center">Frontend Developer | HTML • CSS • JavaScript</h3>
 
