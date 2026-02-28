@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Madhura Mane</h1>
+<h3 align="center">Frontend Developer | HTML • CSS • JavaScript</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C896&center=true&vCenter=true&lines=Frontend+Developer;Responsive+Web+Design;JavaScript+Learner;Building+Modern+UI" />
+</p>
 
 <!--
 **madhuramane-1337/madhuramane-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
