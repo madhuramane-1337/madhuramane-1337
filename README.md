@@ -53,8 +53,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (www.linkedin.com/in/madhura-mane-938b3a33a)
-- 📧 Email: (madhuramane2006@gmal.com)
+- 💼 LinkedIn: www.linkedin.com/in/madhura-mane-938b3a33a
+- 📧 Email: madhuramane2006@gmal.com
 
 ---
 
