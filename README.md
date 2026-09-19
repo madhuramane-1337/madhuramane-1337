@@ -8,12 +8,6 @@ Computer Science Engineering Student | Software Developer | AI/ML Learner
   <img src="https://readme-typing-svg.herokuapp.com?color=00C896&center=true&vCenter=true&lines=Software+Development;Java+%7C+DSA+Learner;Python+%7C+AI%2FML+Learner;Building+Real-World+Projects" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/madhuramane-1337">
-    <img src="https://komarev.com/ghpvc/?username=madhuramane-1337&label=Profile%20Views&color=00C896&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
