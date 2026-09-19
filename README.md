@@ -1,144 +1,149 @@
 <h1 align="center">Hi 👋, I'm Madhura Mane</h1>
 
-<h3 align="center">
-Computer Science Engineering Student | Software Developer | AI/ML Learner
-</h3>
+<p align="center">
+  <strong>Computer Science Engineering Student · Software Development · AI/ML</strong>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C896&center=true&vCenter=true&lines=Software+Development;Java+%7C+DSA+Learner;Python+%7C+AI%2FML+Learner;Building+Real-World+Projects" />
+  <a href="https://www.linkedin.com/in/madhura-mane-938b3a33a">
+    LinkedIn
+  </a>
+  &nbsp;·&nbsp;
+  <a href="mailto:madhuramane2006@gmail.com">
+    Email
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/madhuramane-1337">
+    GitHub
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-* 🎓 Computer Science Engineering student
-* 💻 Interested in Software Development and Artificial Intelligence
-* 🐍 Learning Python for Machine Learning and AI
+I'm a Computer Science Engineering student interested in building practical software and AI-powered applications.
+
+My current focus is on strengthening my fundamentals in **Software Development, Java & DSA, Python, Machine Learning, and AI** while building projects that solve real problems.
+
+I have hands-on experience with **web development and Django**, and I'm currently expanding into **Machine Learning, Deep Learning, Computer Vision, and Cloud Computing**.
+
+* 🎓 Computer Science Engineering Student
+* 💻 Interested in Software Development and AI/ML
 * ☕ Learning Java and Data Structures & Algorithms
-* 🤖 Exploring Machine Learning, Computer Vision and Edge AI
-* 🌐 Have experience building web applications using HTML, CSS, JavaScript and Django
-* 🚀 I enjoy learning by building practical, real-world projects
-* 📚 Currently improving my problem-solving, development and AI skills
+* 🐍 Using Python for AI/ML projects
+* 🤖 Exploring Machine Learning and Computer Vision
+* 🚀 Building projects to learn through practice
 
 ---
 
-## 🛠️ Technologies & Skills
+## Technical Skills
 
-### 💻 Programming
+### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+`Java` `Python` `C++` `JavaScript`
 
-### 🌐 Web Development
+### Web Development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+`HTML` `CSS` `JavaScript` `Bootstrap` `Django`
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
 
-> 🔄 Currently learning: Machine Learning, Deep Learning and Computer Vision
+### Databases & Tools
 
-### 🗄️ Database & Tools
+`SQLite` `Git` `GitHub` `VS Code` `Jupyter Notebook`
 
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+### Currently Learning
+
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `Cloud Computing`
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📢 College Notice Board
+### College Notice Board
 
-**Django | Python | HTML | CSS | JavaScript | SQLite**
+**Python · Django · HTML · CSS · JavaScript · Bootstrap · SQLite**
 
-A full-stack college notice management system that allows administrators to create, update and delete notices while students can view important college announcements.
+A full-stack college notice management application designed to make sharing and managing college announcements easier.
 
-**Key Features:**
+**Highlights**
 
-* 🔐 User authentication
-* 👥 Role-based access
-* 📝 CRUD operations
-* 📢 Notice management
-* 🗄️ SQLite database
-* 📱 Responsive interface
+* User registration and authentication
+* Admin and student roles
+* Role-based permissions
+* Create, read, update and delete notices
+* SQLite database integration
+* Responsive interface
 
-🔗 [View Project](https://github.com/madhuramane-1337/college-notice-board-django)
-
----
-
-### 💼 Portfolio Website
-
-**HTML | CSS | JavaScript**
-
-A responsive personal portfolio website designed to showcase my projects, skills and development journey.
-
-🔗 [View Project](https://github.com/madhuramane-1337/Portfolio-UI)
+[View Repository](https://github.com/madhuramane-1337/college-notice-board-django)
 
 ---
 
-### 🍽️ Royal Taste Restaurant
+### Portfolio UI
 
-**HTML | CSS | JavaScript | Bootstrap**
+**HTML · CSS · JavaScript**
 
-A responsive restaurant website focused on modern UI design, menu presentation and user-friendly navigation.
+A responsive personal portfolio website built to showcase projects, technical skills and development work.
 
-🔗 [View Project](https://github.com/madhuramane-1337/Restaurant-Webpage)
+**Highlights**
+
+* Responsive design
+* Modern UI
+* Interactive components
+* Mobile-friendly layout
+
+[View Repository](https://github.com/madhuramane-1337/Portfolio-UI)
 
 ---
 
-## 📚 Currently Learning
+### Royal Taste Restaurant
+
+**HTML · CSS · JavaScript · Bootstrap**
+
+A responsive restaurant website focused on clean UI, menu presentation and an interactive user experience.
+
+**Highlights**
+
+* Responsive restaurant layout
+* Interactive navigation
+* Menu presentation
+* Modern visual design
+
+[View Repository](https://github.com/madhuramane-1337/Restaurant-Webpage)
+
+---
+
+## What I'm Working Towards
 
 ```text
-Java + Data Structures & Algorithms
-            ↓
-Python for AI/ML
-            ↓
-Machine Learning
-            ↓
-Deep Learning
-            ↓
-Computer Vision
-            ↓
-Edge AI & Cloud
+Software Development
+        │
+        ├── Java + DSA
+        │
+        └── Backend Development
+
+AI / ML
+        │
+        ├── Python
+        ├── Machine Learning
+        ├── Deep Learning
+        └── Computer Vision
+
+Future Focus
+        │
+        ├── Cloud Computing
+        └── Edge AI
 ```
 
 ---
 
-## 🎯 My Current Goals
-
-* 💻 Strengthen Software Development fundamentals
-* ☕ Improve Java and Data Structures & Algorithms
-* 🤖 Build practical Machine Learning projects
-* 👁️ Learn Computer Vision
-* ☁️ Explore Cloud Computing
-* 🚀 Build internship-ready projects
-* 📈 Contribute to open-source projects
-
----
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhuramane-1337&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhuramane-1337&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
@@ -147,25 +152,14 @@ Edge AI & Cloud
 
 ---
 
-## 📈 Contribution Graph
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhuramane-1337&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/madhura-mane-938b3a33a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:madhuramane2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-⭐ **Building consistently. Learning continuously. Growing one project at a time.**
